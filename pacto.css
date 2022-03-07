@@ -1,0 +1,46 @@
+.img1{
+    height: 400px;
+    width: 100%;
+}
+
+body {
+    background-color: #363636;
+  }
+
+  #menu{
+    list-style-type: none;
+    padding: 0;
+    background-color: #F4A460;
+}
+
+#menu ul li{
+    display: inline;
+}
+
+#menu ul li a{
+    color: rgb(255, 254, 254);
+    padding: 30px;
+    display: inline-block;
+    text-decoration: none;
+    transition: background 1s;
+
+}
+
+#menu ul li a:hover{
+    background-color: #B22222;
+}
+
+#g1 ul li{
+    display: inline;
+    padding: 70px;
+}
+
+#zvz1 ul li{
+    display: inline-block;
+    padding: 20px;
+}
+
+#txt{
+    text-align: justify;
+    color: white;
+}
